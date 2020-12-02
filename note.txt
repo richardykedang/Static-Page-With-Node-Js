@@ -1,1 +1,4 @@
 - create json package file = npm init
+- install nodemon depedency for automatically restarting the node application when file changes = npm install nodemon --save-dev,
+- install slugfy for formating url like 'http://kategori/perabotan-rumah-tangga' = npm install slugify --save
+  
